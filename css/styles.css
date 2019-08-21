@@ -1,0 +1,41 @@
+.col {
+    border: solid 1px black;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: yellow;
+    padding: 1em;
+}
+
+header {
+    height: 10em;
+    background-color: blue;
+}
+
+nav {
+    height: 5em;
+    background-color: green;
+}
+
+main {
+    height: 10em;
+    background-color: red;
+}
+
+aside {
+    height: 10em;
+    background-color: aqua;
+}
+
+div {
+    height: 10em;
+    background-color: orange;
+}
+
+footer {
+    height: 5em;
+    background-color: black;
+    color: white;
+}
